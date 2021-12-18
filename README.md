@@ -1,0 +1,2 @@
+# Spectral-topographies-and-optimal-Hierarchical-Attention-Networks-for-Pulmonary-abnormality-detectio
+WCSO-HAN :Spectral topographies and optimal Hierarchical Attention Networks for Pulmonary abnormality detection from the Respiratory Sound signals. The experimentation of the developed technique is performed in PYTHON tool by International Conference in Biomedical and Health Informatics (ICBHI 2017) (dataset-1)  and respiratory sound database (dataset-2) [and for the efficient pulmonary abnormality detection
